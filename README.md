@@ -26,7 +26,7 @@ Haz clic en **Download** para obtenerlo y probarlo localmente.
 
 ## 🎥 Demostración
 Puedes ver el gameplay completo en YouTube:  
-👉 [Ver el vídeo de demostración]https://www.youtube.com/watch?v=70B8BhDuSIM
+👉 [Ver el vídeo de demostración](https://www.youtube.com/watch?v=70B8BhDuSIM)
 
 ## 👤 Autor
 Desarrollado por **Ayoub El Khalifi**  
