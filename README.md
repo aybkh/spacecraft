@@ -1,6 +1,6 @@
 # 🚀 Spacecraft – Infinite Shooter Game
 
-![Gameplay Screenshot]<img width="1536" height="921" alt="Image" src="https://github.com/user-attachments/assets/6182d247-af82-4627-a0d5-2dbe0909b59d" />
+<img width="1536" height="921" alt="Image" src="https://github.com/user-attachments/assets/6182d247-af82-4627-a0d5-2dbe0909b59d" />
 
 ## 🧩 Descripción
 **Spacecraft** (también conocido como *JocNausEspacials*) es un videojuego 2D tipo *shooter infinito* desarrollado con **Unity**.  
