@@ -16,7 +16,10 @@ A medida que avanza, aparecen **objetos de poder y vida** que ayudan a resistir 
 
 ## 🛠️ Tecnologías utilizadas
 - Unity Engine  
-- C#  
+- C#
+- DotNet
+- Git
+- GitHub
 - Visual Studio  
 - Assets 2D personalizados  
 
